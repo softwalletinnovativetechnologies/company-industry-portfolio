@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
-import aiImg from "../assets/projects/ai_Img.png";
-import shopImg from "../assets/projects/shop_Img.png";
-import internshipImg from "../assets/projects/internship_Img.png";
+import aiImg from "../assets/projects/ai.png";
+import shopImg from "../assets/projects/shop.png";
+import internshipImg from "../assets/projects/internship.png";
 
 const projects = [
   {
