@@ -17,14 +17,14 @@ const projects = [
     desc: "A complete e-commerce platform for Kashmiri products with product catalog, cart system, and admin management.",
     tags: ["React", "Node.js", "MongoDB", "E-Commerce"],
     image: shopImg, // replace later with real image
-    live: "https://your-kashmiri-shop-live-link.com",
+    live: "https://shopportalkashmiri.vercel.app/",
   },
   {
     title: "Internship & Assessment Portal",
     desc: "Role-based internship management platform with mentor dashboard, student tracking, and skill assessment modules.",
     tags: ["MERN", "Dashboard", "Role-Based", "Assessment"],
     image: internshipImg, // replace later with real image
-    live: "https://your-internship-portal-live-link.com",
+    live: "https://internshipportal-nine.vercel.app/",
   },
 ];
 
