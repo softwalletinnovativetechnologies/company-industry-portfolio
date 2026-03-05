@@ -11,10 +11,10 @@ export default function ContactSection() {
           </h3>
 
           <p className="mb-4 text-gray-900">
-            📧 Email: softwalletinnovativetech@gmail.com
+            📧 Email: info@softwalletinnovative technologies.cloud
           </p>
 
-          <p className="mb-4 text-gray-900">📞 Phone: +91 6006XXXXXX</p>
+          <p className="mb-4 text-gray-900">📞 Phone: +91 9596393658</p>
 
           <p className="text-gray-900">📍 Location: Kupwara, Kashmir, India</p>
         </div>
