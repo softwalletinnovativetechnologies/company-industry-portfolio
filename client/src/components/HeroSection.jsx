@@ -26,7 +26,7 @@ export default function HeroSection() {
           transition={{ delay: 0.2 }}
           className="mt-6 text-gray-900 text-lg tracking-wide"
         >
-          <b>KUPWARA, KASHMIR, INDIA</b>
+          <b>Srinagar, Jammu & KASHMIR, INDIA</b>
         </motion.p>
       </motion.div>
     </section>
