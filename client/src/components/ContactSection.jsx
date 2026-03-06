@@ -14,16 +14,16 @@ export default function ContactSection() {
             📧 Email: info@softwalletinnovative technologies.cloud
           </p>
 
-          <p className="mb-4 text-gray-900">📞 Phone: +91 9596393658</p>
+          <p className="mb-4 text-gray-900">📞 Phone: +91 7599741491</p>
 
-          <p className="text-gray-900">📍 Location: Kupwara, Kashmir, India</p>
+          <p className="text-gray-900">📍 Location: Srinagar, Jammu & Kashmir, India</p>
         </div>
 
         {/* Map */}
         <div className="rounded-2xl overflow-hidden border border-white/10">
           <iframe
-            title="Kupwara Kashmir Map"
-            src="https://www.google.com/maps?q=Kupwara%20Kashmir&output=embed"
+            title="Srinagar Jammu & Kashmir Map"
+            src="https://www.google.com/maps?q=Srinagar%20Kashmir&output=embed"
             width="100%"
             height="100%"
             className="min-h-[300px]"
