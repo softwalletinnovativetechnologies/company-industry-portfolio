@@ -20,7 +20,6 @@ export default function Footer() {
           }
           className="mt-4 md:mt-0 px-6 py-2 rounded-full bg-indigo-900 text-white font-medium shadow-lg hover:bg-indigo-700 transition"
         >
-          Visit Our Company Website
         </motion.button>
       </div>
     </footer>
