@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import aiImg from "../assets/projects/ai.png";
 import shopImg from "../assets/projects/shop.png";
 import internshipImg from "../assets/projects/internship.png";
-import hotelImg from "../assets/projects/hotelImg.jpg";
+import hotelImg from "../assets/projects/hotel.png";
 const projects = [
   {
     title: "AI Interview System",
