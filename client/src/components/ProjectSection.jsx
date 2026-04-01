@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import aiImg from "../assets/projects/ai.png";
 import shopImg from "../assets/projects/shop.png";
 import internshipImg from "../assets/projects/internship.png";
-
+import hotelImg from "../assets/projects/hotelImg.jpg";
 const projects = [
   {
     title: "AI Interview System",
@@ -32,7 +32,7 @@ const projects = [
     desc: "Role-based hotel management platform with admin dashboard, booking tracking, and booking system.",
     tags: ["MERN", "Dashboard", "Role-Based", "Booking"],
     image: hotelImg, // replace later with real image
-    live: "https://internshipportal-nine.vercel.app/",
+    live: "https://hotelmanagementsystem-m1q46gtqn-areeba-mohsins-projects.vercel.app/",
   },
 ];
 
