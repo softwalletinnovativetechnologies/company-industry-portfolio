@@ -26,6 +26,14 @@ const projects = [
     image: internshipImg, // replace later with real image
     live: "https://internshipportal-nine.vercel.app/",
   },
+
+  {
+    title: "Hotel Management System",
+    desc: "Role-based hotel management platform with admin dashboard, booking tracking, and booking system.",
+    tags: ["MERN", "Dashboard", "Role-Based", "Booking"],
+    image: hotelImg, // replace later with real image
+    live: "https://internshipportal-nine.vercel.app/",
+  },
 ];
 
 export default function ProjectsSection() {
